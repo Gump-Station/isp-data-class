@@ -15,4 +15,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - CONTRIBUTING.md
-
