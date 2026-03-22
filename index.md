@@ -36,7 +36,7 @@ Each year, students collect field data, create data management plans, write prot
 
 ## What You'll Find Here
 
-Each year's page includes:
+Each year's page includes some details about these parts of the data lifecycle:
 
 - **Student projects** — with abstracts pulled directly from DOI metadata records
 - **Data management plans** — documenting how data was collected, managed, and preserved
