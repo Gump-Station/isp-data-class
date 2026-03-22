@@ -1,0 +1,17 @@
+title: "ISP Data Communication & Professionalism"
+description: "Student research data products from the UC Berkeley Island Sustainability Program at the Gump South Pacific Research Station, Mo'orea, French Polynesia"
+url: "" # will be set to https://<org>.github.io
+baseurl: "/isp-data-class" # repo name
+
+# No remote theme — fully self-contained
+plugins:
+  - jekyll-seo-tag
+
+# Build
+markdown: kramdown
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - CONTRIBUTING.md

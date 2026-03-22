@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+<p style="color:#4a6274;">{{ page.cohort_description }}</p>
+
+{% if page.cohort %}
+<h2>Cohort</h2>
+<div class="cohort-grid">
+  {% for person in page.cohort %}
+  {% if person.orcid %}
+  <div class="orcid-profile" data-orcid="{{ person.orcid }}"></div>
+  {% else %}
+  <div class="orcid-profile">
+    <div class="orcid-name">{{ person.name }}</div>
+    {% if person.affiliation %}<div class="orcid-affiliation">{{ person.affiliation }}</div>{% endif %}
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+{% elsif page.students %}
+<h2>Cohort</h2>
+<ul class="student-list">
+  {% for student in page.students %}
+  <li>{{ student }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<hr class="section-divider">
+
+{{ content }}
