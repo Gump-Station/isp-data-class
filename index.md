@@ -7,7 +7,7 @@ title: "ISP Data Communication & Professionalism"
 
 This site is the central archive for student research data products created in **ESPM 109E: Data Communication & Professionalism**, taught as part of the [UC Berkeley Island Sustainability Program](https://www.moorea.berkeley.edu/programs/field-courses/island-sustainability-program) at the Richard B. Gump South Pacific Research Station in Mo'orea, French Polynesia.
 
-Each year, students collect field data, create data management plans, write protocols, clean and archive datasets, apply Local Contexts notices, and produce metadata records with DOIs. This site brings all of that work together in one place.
+Each year, students create project metadata, collect field data,write protocols, archive datasets, apply Local Contexts notices, and produce metadata records with DOIs. This site brings all of that work together in one place.
 
 ---
 
@@ -20,11 +20,11 @@ Each year, students collect field data, create data management plans, write prot
   </a>
   <a href="{{ '/2025/' | relative_url }}" class="year-card">
     <h3>2025</h3>
-    <span class="cohort-count"></span>
+    <span class="cohort-count">20 students</span>
   </a>
   <a href="{{ '/2024/' | relative_url }}" class="year-card">
     <h3>2024</h3>
-    <span class="cohort-count"></span>
+    <span class="cohort-count">20 students</span>
   </a>
   <a href="{{ '/2023/' | relative_url }}" class="year-card">
     <h3>2023</h3>
