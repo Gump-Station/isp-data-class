@@ -9,6 +9,7 @@ This site is the central archive for student research data products created in *
 
 Each year, students create project metadata, collect field data,write protocols, archive datasets, apply Local Contexts notices, and produce metadata records with DOIs. This site brings all of that work together in one place.
 
+NOTE: I am moving content from [this spreadsheet](https://docs.google.com/spreadsheets/d/19vP6UO2iCFbAiC648MGUvGczBBsHapTSyASW--b7_Q0/edit?gid=582950240#gid=582950240) to this site
 ---
 
 ## Cohort Years
